@@ -36,7 +36,8 @@ dotnet [runtime-options] [path-to-application]
 
 根据指定的模板，创建新的项目、配置文件或解决方案。查看帮助命令为 `dotnet new -h`
 ```base
-dotnet new <TEMPLATE> [--force] [-i|--install] [-lang|--language] [-n|--name] [--nuget-source] [-o|--output] [-u|--uninstall] [Template options]
+dotnet new <TEMPLATE> [--force] [-i|--install] [-lang|--language] [-n|--name]
+ [--nuget-source] [-o|--output] [-u|--uninstall] [Template options]
 ```
 
 自变量
@@ -116,6 +117,7 @@ dotnet publish [-h|--help]
 `centos-x64`、`centos.7-x64`
 
 *Debian*
+
 `debian-x64`、`debian.8-x64`
 
 *Fedora*
