@@ -1,0 +1,14 @@
+E:\document\projects\dotnet\dotenetCoreLearning\MQTTDemo\bin\Debug\netcoreapp2.1\win-x86\hostpolicy.dll
+E:\document\projects\dotnet\dotenetCoreLearning\MQTTDemo\bin\Debug\netcoreapp2.1\win-x86\hostfxr.dll
+E:\document\projects\dotnet\dotenetCoreLearning\MQTTDemo\bin\Debug\netcoreapp2.1\win-x86\MQTTDemo.exe
+E:\document\projects\dotnet\dotenetCoreLearning\MQTTDemo\bin\Debug\netcoreapp2.1\win-x86\MQTTDemo.deps.json
+E:\document\projects\dotnet\dotenetCoreLearning\MQTTDemo\bin\Debug\netcoreapp2.1\win-x86\MQTTDemo.runtimeconfig.json
+E:\document\projects\dotnet\dotenetCoreLearning\MQTTDemo\bin\Debug\netcoreapp2.1\win-x86\MQTTDemo.runtimeconfig.dev.json
+E:\document\projects\dotnet\dotenetCoreLearning\MQTTDemo\bin\Debug\netcoreapp2.1\win-x86\MQTTDemo.dll
+E:\document\projects\dotnet\dotenetCoreLearning\MQTTDemo\bin\Debug\netcoreapp2.1\win-x86\MQTTDemo.pdb
+E:\document\projects\dotnet\dotenetCoreLearning\MQTTDemo\obj\Debug\netcoreapp2.1\win-x86\MQTTDemo.csprojAssemblyReference.cache
+E:\document\projects\dotnet\dotenetCoreLearning\MQTTDemo\obj\Debug\netcoreapp2.1\win-x86\MQTTDemo.csproj.CoreCompileInputs.cache
+E:\document\projects\dotnet\dotenetCoreLearning\MQTTDemo\obj\Debug\netcoreapp2.1\win-x86\MQTTDemo.AssemblyInfoInputs.cache
+E:\document\projects\dotnet\dotenetCoreLearning\MQTTDemo\obj\Debug\netcoreapp2.1\win-x86\MQTTDemo.AssemblyInfo.cs
+E:\document\projects\dotnet\dotenetCoreLearning\MQTTDemo\obj\Debug\netcoreapp2.1\win-x86\MQTTDemo.dll
+E:\document\projects\dotnet\dotenetCoreLearning\MQTTDemo\obj\Debug\netcoreapp2.1\win-x86\MQTTDemo.pdb
